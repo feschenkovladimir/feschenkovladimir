@@ -2,7 +2,7 @@ Hi, there! 👋
 
 My name is Vladimir, living in Grodno, Belarus. I am a Software Engineer.
 
-I love when software engineers are passionate about their work and when they build engineering cultures with their own values.
+I love programming and creating things that help other people.
 
 **Connect with me:**
 
